@@ -19,3 +19,12 @@ Add your **API Key** in the `scripts/complete-backup.ts` file
 cd dato-cms-scripts
 npm run complete-backup
 ```
+
+## Example Script: Update a Boolean Value of all Records
+
+Add your **API Key** and change the **Record Type Id**  in the `scripts/update-records.ts` file
+
+```
+cd dato-cms-scripts
+npm run update-records
+```

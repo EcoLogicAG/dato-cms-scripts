@@ -4,7 +4,8 @@
   "description": "",
   "main": "null",
   "scripts": {
-    "complete-backup": "ts-node scripts/complete-backup.ts"
+    "complete-backup": "ts-node scripts/complete-backup.ts",
+    "update-records": "ts-node scripts/update-records.ts"
   },
   "repository": {
     "type": "git",
