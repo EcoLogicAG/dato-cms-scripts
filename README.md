@@ -23,6 +23,7 @@ npm run complete-backup
 ## Example Script: Update a Boolean Value of all Records
 
 Add your **API Key** and change the **Record Type Id**  in the `scripts/update-records.ts` file
+(and of course you have to add a new interface for the record type and change some code)
 
 ```
 cd dato-cms-scripts
