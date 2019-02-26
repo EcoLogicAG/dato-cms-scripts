@@ -1,0 +1,28 @@
+{
+  "name": "dato-cms-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "complete-backup": "ts-node scripts/complete-backup.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EcoLogicAG/dato-cms-scripts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EcoLogicAG/dato-cms-scripts/issues"
+  },
+  "homepage": "https://github.com/EcoLogicAG/dato-cms-scripts#readme",
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0",
+    "@types/node": "^11.9.5",
+    "cli-progress": "^2.1.1",
+    "datocms-client": "^0.8.15",
+    "moment": "^2.24.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3333"
+  }
+}
